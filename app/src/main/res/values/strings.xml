@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project - Amandeep Kaur 000822179</string>
+    <string-array name="lang">
+        <item>Language</item>
+        <item>EN</item>
+        <item>FR</item>
+    </string-array>
+    <string name="msg">Enter a search keyword.</string>
+</resources>
