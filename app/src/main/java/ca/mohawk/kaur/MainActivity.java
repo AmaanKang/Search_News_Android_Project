@@ -1,11 +1,4 @@
 package ca.mohawk.kaur;
-/**
- * I, Amandeep Kaur, 000822179 certify that this material is my original work. No
- * other person's work has been used without due acknowledgement.
- *
- * Youtube link:
- * https://youtu.be/5bfvqNQdvQQ
- */
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
